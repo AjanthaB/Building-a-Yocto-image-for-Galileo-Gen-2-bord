@@ -97,6 +97,8 @@ now your task is ok.yiu can check OpenCV sucessfully installed or not inmporting
 `import opencv2` 
 
 
+####You can download prebuild image here['https://drive.google.com/folderview?id=0Bw5tihzaggSCfnRYZGg5XzRzT2kwT3BNQXNSbllDemR1ZGdRMC0tUW03ZFFnZ0NERENGUDA&usp=sharing']
+
 
 
 
